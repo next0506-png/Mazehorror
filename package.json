@@ -1,0 +1,13 @@
+{
+  "name": "heukbaek-house",
+  "version": "1.0.0",
+  "description": "흑백의 집 - 멀티플레이 공포 게임 서버",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
